@@ -83,9 +83,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
-
-
         private void btn2_Click(object sender, EventArgs e)
         {
             mv++;
@@ -98,7 +95,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn3_Click(object sender, EventArgs e)
         {
             mv++;
@@ -111,7 +107,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn4_Click(object sender, EventArgs e)
         {
             mv++;
@@ -124,7 +119,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn5_Click(object sender, EventArgs e)
         {
             mv++;
@@ -137,7 +131,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn6_Click(object sender, EventArgs e)
         {
             mv++;
@@ -150,7 +143,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn7_Click(object sender, EventArgs e)
         {
             mv++;
@@ -163,7 +155,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn8_Click(object sender, EventArgs e)
         {
             mv++;
@@ -176,7 +167,6 @@ namespace TicTacToe
             player = !player;
             labelWho.Text = player ? "O" : "X";
         }
-
         private void btn9_Click(object sender, EventArgs e)
         {
             mv++;
